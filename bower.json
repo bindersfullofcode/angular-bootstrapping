@@ -1,0 +1,25 @@
+{
+  "name": "angular-bootstrapping",
+  "authors": [
+    "Cooper Filby <cfilby2@uabmc.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "ngCordova": "^0.1.26-alpha",
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}
